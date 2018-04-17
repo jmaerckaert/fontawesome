@@ -1,6 +1,6 @@
 {
     "name": "jmaerckaert/fontawesome",
-    "description": "Library for fontawesome module.",
+    "description": "Libraries Fontawesome for Drupal Fontawesome module",
     "type": "drupal-library",
     "homepage": "https://github.com/jmaerckaert/fontawesome",
     "authors": [
